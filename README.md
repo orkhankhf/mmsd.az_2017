@@ -1,1 +1,1 @@
-# mmsd.az_2017
+# Mmsd.az was published on Febuary 2017
