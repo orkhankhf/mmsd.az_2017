@@ -1,0 +1,123 @@
+body::-webkit-scrollbar{width:10px;height:12px;}
+body::-webkit-scrollbar-track{background:#333;}
+body::-webkit-scrollbar-thumb{background:#d083cf;}
+body{-ms-scrollbar-base-color:#333;-ms-scrollbar-track-color:#333;-ms-scrollbar-face-color:#d083cf;-ms-scrollbar-arrow-color:#333;}
+.topaz_kuponlari_nav{background:goldenrod;}
+.top_nav li:nth-child(1) a{border-left:1px solid #333;}
+.date_time_header{margin-left:15px;}
+.main_nav li a,.c_xeber_basligi,.single_post_content h2,.news_page_xeber_lenti_h2,.single_post_content a,.latest_post h2,.slick_slider h2,.e_herfi_font_family,.c_xeber_kateqoriyasi h2,.news_page_h1,.related_post h2,.news_diger_xeberler a,.ikinci_basliq,.top_last_news h2,.top_last_news .catg_title,footer h2,.error_page h3,.contact_area h2{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif !important;}
+.navbar-collapse{padding-right:0;}
+.navbar-inverse .navbar-nav > li > a{padding:0 10.7px;}
+.header_logo_bottom_text{font-size:15px;font-weight:600;color:#4b4b4b;display:block;}
+.slider_bottom_ads a img{width:100%;height:100%;}
+.slider_bottom_ads{padding:0;}
+.slider_bottom_ads a:nth-child(1){margin-right:3.4%;}
+.slider_bottom_ads a{display:inline-block;width:48%;height:200px;}
+#player{width:100%;height:250px;}
+.two_reklam_main_div{margin:0;}
+.two_reklam_main_div .tab-content,.two_reklam_main_div .sideAdd{margin:0;}
+.ytb_reklam_video_h{width:100% !important;}
+.iframe_popup_propeller_main{display:none;}
+.iframe_popup_propeller_main div{display:block;width:100%;height:100%;position:fixed;top:0;left:0;background:black;opacity:0.6;z-index:100;}
+.iframe_popup_propeller_main iframe{position:fixed;border:4px solid #d083cf;z-index:1000;width:70%;height:500px;top:75px;left:15%;overflow:hidden !important;}
+.iframe_popup_propeller_main button{position:fixed;text-align:center;z-index:1500;width:20%;left:40%;top:20px;background:steelblue;color:white;padding-bottom:15px;padding-top:15px;}
+.qadingeyimleri_ad{border:2px solid #d083cf;}
+.slider_date{text-align:center;}
+.slick-dots{display:none !important;}
+.latest_post{margin-top:10px;}
+.index_cat_news_date{color:#d083cf;text-decoration:underline;}
+.index_cat_news_date span{color:#334564;}
+.xeber_lenti_3{height:auto;}
+.xeber_lenti_3 ul li{border-bottom:0.5px dotted #d083cf;}
+.xeber_lenti_3 .media{margin-bottom:10px;}
+.single_post_content a{font-weight:600;}
+.basliq_sol_xeber{font-size:21px !important;}
+.basliq_sag_xeber{font-size:13px;}.xeber_lenti_basligi{overflow:hidden;font-style:italic;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;}
+.c_xeber_kateqoriyasi{text-align:center;}
+.c_news_list{display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap;}
+.c_news_info{margin-bottom:30px;display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap;}
+.c_news_info_inner_div{border:1px solid lightgray;padding:0;}
+.c_news_info_inner_div:hover{box-shadow:3px solid gray;}
+.c_news_image{width:100%;height:240px;background-size:cover;background-position:center center;background-color:#ddd;}
+.c_tarix{position:absolute;top:0;padding:3px;color:white;font-weight:bold;background:#d083cf;}
+.c_tarix p{margin:0;padding:0;text-align:center;}
+.c_xeber_basligi{color:#2c2c2c;font-weight:bold;font-size:15px;padding:10px;margin:0;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;min-height:95px;max-height:95px;}
+.c_news_info .glyphicon-eye-open{font-size:15px;position:relative;top:2px;}
+.c_oxunma p{border-top:1px solid lightgray;padding:5px 10px;margin:0;}
+.c_oxunma span{color:green;font-weight:bold;}
+.capitalise{text-transform:capitalize;}
+.news_page_h1,.ikinci_basliq{text-transform:none !important;}
+.news_page_news_time_info span,.news_page_news_time_info a{font-size:12px;}
+.news_pg_baxilma{color:green;font-weight:bold;font-size:17px;padding-left:10px;}
+.news_main_image{width:84% !important;margin-left:8% !important;height:auto !important;}
+.ikinci_basliq{padding:10px 20px !important;margin:0 0 20px !important;font-size:17.5px !important;border-left:5px solid #eee !important;line-height:31px !important;color:#333 !important;}
+.xeber_metni{margin-top:30px;margin-bottom:30px;}
+.xeber_metni p span{font-size:15px !important;}
+.news_other_images{width:100% !important;height:auto !important;}
+.h2_diger_xeberler{font-size:24px;}
+.news_diger_xeberler{width:50% !important;padding:0 !important;margin:0 !important;min-height:133px;margin-bottom:20px !important;}
+.news_page_xeber_lenti_h2{background:none repeat scroll 0 0 #151515;color:#fff;font-size:18px;margin-top:5px;font-weight:400;margin-bottom:10px;margin-left:0;padding:0;position:relative;text-align:center;text-transform:uppercase;}
+.news_page_xeber_lenti_h2 span{padding:4px 10px;background:none repeat scroll 0 0 #d083cf;}
+.xeberin_yazari{font-weight:bold;float:right;font-size:13px !important;}
+.xeberin_yazari:hover{color:#798995 !important;}
+.news_diger_xeberler img{height:100px;width:130px;}
+.news_diger_xeberler span{display:block;text-decoration:underline;}
+#dx_saat{color:#d083cf;display:inline-block;}
+.single_page_content{font-size:16px;}
+.single_page_content p{line-height:31px;}
+.top_last_news .spost_nav li{border-bottom:0.5px dotted #d083cf;}
+footer address{margin-top:6px;border-bottom:1px solid white;padding-bottom:6px;}
+.fadeInLeftBig{width:100% !important;}
+.by_bakuweb{float:right;padding:17px 0px;margin:0;}
+.by_bakuweb a{color:#d083cf;}
+.scrollToTop{bottom:50px;right:30px;}
+@media(max-width:1200px){.slider_bottom_ads a:nth-child(1){margin-right:3.3%;}
+}
+@media(max-width:992px){.iframe_popup_propeller_main button{width:30%;left:35%;}
+.news_diger_xeberler{width:100% !important;min-height:120px;margin-bottom:15px !important;}
+.news_diger_xeberler img{height:125px;width:190px;}
+.dx_basliq{font-size:12px;}
+.xeber_lenti_basligi{font-size:13px;}
+.basliq_sol_xeber{font-size:17px !important;}
+.slider_article h2 a{font-size:16px !important;padding:0px;}
+.slider_article{font-size:14px !important;}
+.news_page_h1{font-size:25px !important;line-height:1.2em !important;}
+.news_pg_baxilma{font-size:15px;margin-right:0px !important;}
+.slider_bottom_ads a:nth-child(1){margin-right:3%;}
+.slider_bottom_ads a{height:160px;}
+}
+@media(max-width:768px){.latest_post{margin-top:20px;}
+.footer_myadcash_reklami{display:none !important;}
+.iframe_popup_propeller_main button{width:36%;left:32%;}
+#navbar{overflow-x:hidden;}
+.navbar-header::before{content:"MENU";position:absolute;color:white;line-height:51px;font-weight:600;left:15px;}
+.main_nav li:nth-child(1){display:none;}
+section{padding:0 5px !important;}
+.news_slider_ul li img{width:100px;height:70px;}
+.h2_diger_xeberler{font-size:18px;}
+.single_sidebar .sideAdd{text-align:center;}
+.dx_basliq{font-size:14px;}
+.xeber_lenti_basligi{font-size:14px;}
+.sideAdd img{width:330px !important;height:223px !important;}
+.slider_article h2 a{font-size:15px !important;padding:0px;}
+.slider_article .slider_aciqlama{display:none;}
+.news_main_image{width:100% !important;margin-left:0% !important;height:auto !important;}
+.news_page_h1{font-size:20px !important;}
+.ikinci_basliq{font-size:15px !important;}
+.xeber_metni p{font-size:14px !important;}
+#player{height:200px;}
+.slider_bottom_ads a{height:130px;margin-right:0%;margin-bottom:20px;}
+}
+@media(max-width:500px){.iframe_popup_propeller_main button{width:56%;left:22%;font-size:15px;}
+.slider_bottom_ads a{width:100%;height:130px;margin-right:0%;margin-bottom:20px;}
+.header_logo_bottom_text{font-size:13px;}.spost_nav .media-left{width: 135px !important;}
+}
+@media(max-width:460px){.c_news_info{width:100% !important;left:0;}
+.c_news_image{height:150px;}
+.c_xeber_basligi{font-size:13px;}
+.xeber_metni p{text-align:left;}
+.news_diger_xeberler .media-body{display:block;}
+.news_diger_xeberler .media-left{width:auto;height:auto;}
+.news_diger_xeberler .media-left img{height:110px;width:100%;}
+.sideAdd img{width:192px !important;height:200px !important;}
+}

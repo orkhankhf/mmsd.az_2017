@@ -1,0 +1,12 @@
+[14-Jan-2017 18:45:41 America/Chicago] PHP Warning:  unlink(../../../news_files/1484404849/perelman1_1434135): No such file or directory in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/edit_xeber.php on line 32
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 63
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagecreatefromjpeg(): '../../../news_files/1484930079/esas.jpg' is not a valid JPEG file in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 63
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 64
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 65
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  Division by zero in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 68
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 71
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 74
+[20-Jan-2017 20:34:39 Asia/Baku] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/xeber_elave_et.php on line 77
+[22-Jan-2017 05:22:41 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/remove_from_slider.php on line 18
+[22-Jan-2017 05:22:49 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/remove_from_slider.php on line 18
+[22-Jan-2017 05:23:07 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home2/orxansmmsd/public_html/bakuweb/farajov/functions/remove_from_slider.php on line 18
