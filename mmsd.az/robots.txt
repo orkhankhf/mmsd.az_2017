@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /bakuweb/
+Disallow: /cgi-bin/
+Disallow: /db/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /news_files/
+
